@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola! 👋 Soy Carlos Melero
 
-<!--
-**cmelerodev/cmelerodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer
 
-Here are some ideas to get you started:
+🔧 Tecnologías que uso:
+- HTML / Css / JavaScript / Tailwind /React / nextJS / Astro / PHP /GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Siempre aprendiendo algo nuevo y creando proyectos interesantes.
+
+📫 Cómo contactarme:
+[LinkedIn]([https://www.linkedin.com/in/juanitodev](https://www.linkedin.com/in/carlos-melero-blanco/)) | [Portafolio]([https://juanitodev.com](https://cmelero-dev-portfolio.vercel.app/))
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmelero&show_icons=true&theme=tokyonight)
+
